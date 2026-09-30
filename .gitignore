@@ -1,8 +1,3 @@
-# Environment variables (JANGAN di-upload ke GitHub!)
-.env
-.env.local
-.env.production
-
 # Logs
 logs
 *.log
